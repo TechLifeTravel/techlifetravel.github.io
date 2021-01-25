@@ -1,3 +1,5 @@
-Welcome to TechLifeTravel GitHub repositories.
+# Welcome to TechLifeTravel GitHub repositories.
 
-MIT License
+
+
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3
